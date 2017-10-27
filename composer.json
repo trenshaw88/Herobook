@@ -1,0 +1,12 @@
+{
+    "name": "tanner/herobook",
+    "require": {
+        "vlucas/phpdotenv": "2.4"
+    },
+    "authors": [
+        {
+            "name": "trenshaw88",
+            "email": "trenshaw88@twc.com"
+        }
+    ]
+}
